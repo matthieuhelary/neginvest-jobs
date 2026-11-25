@@ -8,9 +8,9 @@
 
 Neginvest est une holding française qui construit et opère un portefeuille de plus de 20 marques B2B spécialisées : mobilier de bureau, équipement d'entrepôt et industriel, signalétique et parking. Parmi elles : [Gosto.com](https://www.gosto.com/), [Manulevage](https://www.manulevage.fr/), [Panostock](https://www.panostock.fr/).
 
-Le groupe vend exclusivement aux professionnels et combine l'e-commerce avec une gestion de comptes B2B de proximité. Il est présent en France, en Espagne et au Portugal, s'apprête à lancer l'Italie et veut continuer à s'étendre en Europe. Il grandit de façon organique et par acquisitions.
+Le groupe vend exclusivement aux professionnels. Il est présent en France, en Espagne et au Portugal, s'apprête à lancer l'Italie et veut continuer à s'étendre en Europe. Il grandit de façon organique et par acquisitions.
 
-L'équipe Product, Tech, Data & IA construit en ce moment un data warehouse, des agents IA, la plateforme e-commerce multi-pays et les systèmes logistiques.
+L'équipe Product, Tech, Data & IA construit en ce moment un data warehouse, des agents IA, la plateforme e-commerce multi-pays et les systèmes logistiques. Elle transforme aussi certains outils SaaS : email, téléphone, CRM, emailing, etc.
 
 ---
 
