@@ -1,5 +1,7 @@
-# neginvest-job
+# neginvest-jobs
 
-Job offer for Neginvest, to share on LinkedIn.
+Neginvest job offers, to share on LinkedIn. One Markdown file per offer in [`offers/`](offers/).
 
-The offer itself lives in [`job-offer.md`](job-offer.md).
+| Offer | Type | Date |
+|---|---|---|
+| [Product Manager — Projet Medusa](offers/2026-11-product-manager-freelance-medusa.md) | Freelance | 2026-11-25 |
