@@ -102,7 +102,7 @@ Le PM n'a pas à maîtriser chaque outil, mais il doit savoir ce que fait chacun
 
 - **E-commerce B2B** : connaît les parcours B2B : compte société, devis, prix négociés, paiement à terme, recommande. *Preuve : un parcours B2B livré et ses résultats.*
 - **SEO de migration** : plan de redirections, recette des URL avant bascule, suivi Search Console et trafic organique, plan d'action si le trafic chute. *Preuve : une migration avec le trafic organique avant et après.*
-- **Priorisation et delivery** : tient 6 mois chargés : coupe, séquence, anticipe les dépendances PIM, OMS et ERP. *Preuve : un projet Linear découpé par le candidat.*
+- **Priorisation et delivery** : tient 6 mois chargés : coupe, séquence, anticipe les dépendances PIM, OMS et ERP.
 - **Spécification exécutable** : tickets avec contexte, critères d'acceptation et commande de test, exécutables par un humain ou un agent. *Preuve : un ticket réel.*
 - **Instrumentation et analytics** : explore PostHog, surtout via MCP, pour comprendre le plan de tracking actuel des sites et prendre des décisions fondées sur les données ; fait évoluer ce plan, une métrique par livraison. *Preuve : un plan de tracking qu'il a écrit.*
 - **Conversion et expérimentation** : une hypothèse, une métrique principale et un garde-fou par changement ; sait quoi faire quand le trafic manque.
