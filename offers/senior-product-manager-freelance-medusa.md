@@ -1,4 +1,4 @@
-# Brief Product Manager freelance — Projet Medusa
+# Brief Senior Product Manager freelance — Projet Medusa
 
 *Neginvest · 25 novembre 2026 · Contact : Matthieu Hélary, Directeur Product, Tech, Data & IA*
 
