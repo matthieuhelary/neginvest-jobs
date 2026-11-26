@@ -25,9 +25,9 @@ L'équipe Product, Tech, Data & IA construit en ce moment un data warehouse, des
 
 Neginvest remplace ses boutiques PrestaShop par une plateforme e-commerce unique sur Medusa, capable de porter plus de 20 sites de marque. Il manque un pilote produit pour transformer ce travail en backlog et en livraisons.
 
-- **Fait** : un nouveau site, créé sur la plateforme. Il prouve que le socle Medusa + Next.js tient en production. Risque faible : pas d'historique SEO à perdre.
-- **Janvier 2027** : un site existant, migré depuis PrestaShop. Il doit prouver qu'on sait migrer sans casser le référencement ni la conversion. Risque élevé : URL qui changent, redirections, positions Google et CA organique à protéger.
-- **Ensuite** : les autres marques. Il faut prouver qu'une migration devient une routine, pas un projet. Le risque se répète à chaque site si la première migration n'est pas industrialisée.
+- **Fait** : un nouveau site, créé sur la plateforme. Il prouve que le socle Medusa + Next.js tient en production.
+- **Janvier 2027** : un site existant, migré depuis PrestaShop. Il doit prouver qu'on sait migrer sans casser le référencement ni la conversion.
+- **Ensuite** : les autres marques. Il faut prouver qu'une migration devient une routine, pas un projet.
 
 ### Le problème
 
