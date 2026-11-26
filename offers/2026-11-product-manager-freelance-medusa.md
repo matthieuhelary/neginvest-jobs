@@ -2,6 +2,13 @@
 
 *Neginvest · 25 novembre 2026 · Contact : Matthieu Hélary, Directeur Product, Tech, Data & IA*
 
+> **En bref**
+>
+> - **Mission** : Senior Product Manager freelance, jusqu'à fin juin 2027.
+> - **Objectif** : une plateforme e-commerce Medusa prête à porter nos 20+ sites B2B, où migrer un site revient à un thème et un plan de redirections.
+> - **Vous** : PM e-commerce B2B, à l'aise avec le SEO de migration, autonome sur les données (Snowflake, dbt) et qui travaille chaque jour avec des agents IA (MCP, skills).
+> - **Lieu** : remote friendly, idéalement basé à Lille, présence régulière à Wasquehal.
+
 ---
 
 ## 1. L'entreprise
@@ -104,7 +111,7 @@ Le PM n'a pas à maîtriser chaque outil, mais il doit savoir ce que fait chacun
 - **Priorisation et delivery** : tient 6 mois chargés : coupe, séquence, anticipe les dépendances PIM, OMS et ERP. *Preuve : un projet Linear découpé par le candidat.*
 - **Spécification exécutable** : tickets avec contexte, critères d'acceptation et commande de test, exécutables par un humain ou un agent. *Preuve : un ticket réel.*
 - **Instrumentation et analytics** : explore PostHog, surtout via MCP, pour comprendre le plan de tracking actuel des sites et prendre des décisions fondées sur les données ; fait évoluer ce plan, une métrique par livraison. *Preuve : un plan de tracking qu'il a écrit.*
-- **Conversion et expérimentation** : une hypothèse, une métrique principale et un garde-fou par changement ; sait quoi faire quand le trafic manque. *Preuve : deux tests A/B avec leur décision.*
+- **Conversion et expérimentation** : une hypothèse, une métrique principale et un garde-fou par changement ; sait quoi faire quand le trafic manque.
 - **Discovery et cadrage** : part du problème client ou commercial, pas de la solution demandée.
 - **Données en autonomie** : interroge Snowflake au quotidien et peut soumettre des PR sur notre projet dbt, par exemple des vues de réconciliation qui vérifient que tous les produits PrestaShop sont en ligne dans Medusa et que tous les contenus ont migré dans le CMS. *Preuve : cas pratique.*
 
@@ -141,3 +148,11 @@ Vous n'êtes pas développeur, et on ne vous le demande pas. Vous comprenez asse
 - **Esprit critique face à l'IA** : garde un jugement humain sur les prix, les contenus légaux, les données clients.
 - **Ownership et résultat** : se juge sur la plateforme prête fin juin et les chiffres des sites migrés, pas sur les tickets livrés.
 - **Curiosité et transmission** : documente ses décisions pour que l'équipe tienne sans lui après la mission.
+
+---
+
+## 6. Modalités
+
+- **Lieu** : remote friendly, mais idéalement basé à Lille. Des passages fréquents au bureau de Wasquehal (accessible en tram) sont attendus.
+- **Déplacements** : possibles à Strasbourg, par exemple 2 jours tous les 2 mois. Les frais de déplacement sont payés en plus du TJM.
+- **TJM** : vu le niveau attendu sur les hard skills, ce n'est pas une mission à 400 €/jour. Mais nous ne sommes ni NVIDIA ni Anthropic : n'attendez pas leurs grilles non plus. On en parle.
