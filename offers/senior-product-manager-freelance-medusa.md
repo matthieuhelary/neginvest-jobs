@@ -170,12 +170,12 @@ Par exemple : `Freelance PM - Matthieu HELARY`. Les emails sont triés automatiq
 
 Dans votre email :
 
-- **Un dépôt GitHub** de quelque chose que vous avez construit récemment.
+- **Un dépôt GitHub public** de quelque chose que vous avez construit récemment.
 - **Votre histoire** : racontez votre parcours et pourquoi vous êtes pertinent pour cette mission. Sentez-vous libre.
 
-**Agences** : vous pouvez candidater, mais pas via un commercial. La personne que vous proposez nous écrit directement, avec son propre travail sur GitHub.
-
 Votre candidature sera lue à la fois par un humain et par une IA.
+
+**Agences et ESN** : vous pouvez candidater, mais pas via un commercial. La personne que vous proposez nous écrit directement, avec son propre travail sur GitHub.
 
 ---
 
