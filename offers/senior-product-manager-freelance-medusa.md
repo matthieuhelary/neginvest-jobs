@@ -165,6 +165,7 @@ Par exemple : `Freelance PM - Matthieu HELARY`. Les emails sont triés automatiq
 Dans votre email :
 
 - **Un dépôt GitHub public** de quelque chose que vous avez construit récemment.
+  - Si vous n'avez rien construit vous-même avec l'IA, ne postulez pas.
 - **Votre histoire** : racontez votre parcours et pourquoi vous êtes pertinent pour cette mission. Sentez-vous libre.
 
 Pas de lettre de motivation ni de CV en PDF. Mettez plutôt ces informations dans le README de votre dépôt, en Markdown.
