@@ -80,7 +80,8 @@ Hors périmètre : la migration de janvier, le développement et la migration de
 
 ### Organisation
 
-- **Interlocuteur principal** : Matthieu Hélary (product owner).
+- **Interlocuteur principal** : Matthieu Hélary (directeur Product, Tech, Data & IA).
+- **Équipe** : vous construisez la plateforme avec une équipe de 4 personnes.
 - **Outils** : Linear (backlog), GitHub (code), Paper (maquettes), Slack (échanges).
 - **Rituels** : point hebdomadaire avec le product owner, démo à chaque livraison.
 
