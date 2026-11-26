@@ -4,7 +4,7 @@
 
 > **En bref**
 >
-> - **Mission** : Senior Product Manager freelance, jusqu'à fin juin 2027.
+> - **Mission** : Senior Product Manager freelance, contrat de 6 mois jusqu'à fin juin 2027.
 > - **Objectif** : une plateforme e-commerce Medusa prête à porter nos 20+ sites B2B, où migrer un site revient à un thème et un plan de redirections.
 > - **Vous** : PM e-commerce B2B, à l'aise avec le SEO de migration, autonome sur les données (Snowflake, dbt) et qui travaille chaque jour avec des agents IA (MCP, skills).
 > - **Lieu** : remote friendly, idéalement basé à Lille, présence régulière à Wasquehal.
@@ -153,6 +153,7 @@ Vous n'êtes pas développeur, et on ne vous le demande pas. Vous comprenez asse
 
 ## 6. Modalités
 
+- **Contrat** : 6 mois. Préavis d'un mois si la collaboration ne fonctionne pas.
 - **Lieu** : remote friendly, mais idéalement basé à Lille. Des passages fréquents au bureau de Wasquehal (accessible en tram) sont attendus.
 - **Déplacements** : possibles à Strasbourg, par exemple 2 jours tous les 2 mois. Les frais de déplacement sont payés en plus du TJM.
 - **TJM** : vu le niveau attendu sur les hard skills, ce n'est pas une mission à 400 €/jour. Mais nous ne sommes ni NVIDIA ni Anthropic : n'attendez pas leurs grilles non plus. On en parle.
