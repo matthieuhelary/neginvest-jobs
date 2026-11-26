@@ -157,3 +157,26 @@ Vous n'êtes pas développeur, et on ne vous le demande pas. Vous comprenez asse
 - **Lieu** : remote friendly, mais idéalement basé à Lille. Des passages fréquents au bureau de Wasquehal (accessible en tram) sont attendus.
 - **Déplacements** : possibles à Strasbourg, par exemple 2 jours tous les 2 mois. Les frais de déplacement sont payés en plus du TJM.
 - **TJM** : vu le niveau attendu sur les hard skills, ce n'est pas une mission à 400 €/jour. Mais nous ne sommes ni NVIDIA ni Anthropic : n'attendez pas leurs grilles non plus. On en parle.
+
+---
+
+## 7. Candidater
+
+Envoyez un email à [matthieu@neginvest.fr](mailto:matthieu@neginvest.fr) avec exactement cet objet :
+
+`Freelance PM - Prénom NOM`
+
+Par exemple : `Freelance PM - Matthieu HELARY`. Les emails sont triés automatiquement à partir de cet objet.
+
+Dans votre email :
+
+- **Un dépôt GitHub** de quelque chose que vous avez construit récemment.
+- **Votre histoire** : racontez votre parcours et pourquoi vous êtes pertinent pour cette mission. Sentez-vous libre.
+
+**Agences** : vous pouvez candidater, mais pas via un commercial. La personne que vous proposez nous écrit directement, avec son propre travail sur GitHub.
+
+Votre candidature sera lue à la fois par un humain et par une IA.
+
+---
+
+**Contact** : Matthieu Hélary · [matthieu@neginvest.fr](mailto:matthieu@neginvest.fr)
