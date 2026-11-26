@@ -1,7 +1,5 @@
 # Senior Product Manager freelance
 
-*Neginvest · 25 novembre 2026 · Contact : Matthieu Hélary, Directeur Product, Tech, Data & IA*
-
 > **En bref**
 >
 > - **Mission** : Senior Product Manager freelance, contrat de 6 mois jusqu'à fin juin 2027.
