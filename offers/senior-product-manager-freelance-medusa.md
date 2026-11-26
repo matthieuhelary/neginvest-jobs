@@ -66,7 +66,7 @@ En socle de tous les sites : un design system industrialisé, bibliothèque vers
 Vous êtes le Senior Product Manager du projet : vous décidez quoi construire, dans quel ordre, et vous vérifiez que ce qui sort répond au besoin. Vous parlez la langue de l'équipe technique et pouvez contribuer au code si vous le souhaitez, mais ce n'est pas votre mission principale.
 
 - Terminer avec les équipes PIM et OMS ces deux briques et leurs contrats d'API : ce que Medusa reçoit, sous quel délai, et ce que voit le client quand une brique ne répond pas.
-- Choisir le CMS headless (note construire ou acheter) et le brancher.
+- Choisir avec les développeurs le CMS headless (note construire ou acheter) et le brancher.
 - Concevoir l'espace client B2B sur les API de l'ERP, et faire améliorer ces API si nécessaire.
 - Porter avec le design et la tech l'industrialisation du design system : composants, thème par marque, accessibilité.
 - Spécifier le premier raccordement e-procurement d'un grand compte (PunchOut, SSO) et l'intégration des prestataires de paiement.
