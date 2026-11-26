@@ -100,20 +100,20 @@ Le PM n'a pas à maîtriser chaque outil, mais il doit savoir ce que fait chacun
 
 ### Produit
 
-- **E-commerce B2B** : connaît les parcours B2B : compte société, devis, prix négociés, paiement à terme, recommande. *Preuve : un parcours B2B livré et ses résultats.*
-- **SEO de migration** : plan de redirections, recette des URL avant bascule, suivi Search Console et trafic organique, plan d'action si le trafic chute. *Preuve : une migration avec le trafic organique avant et après.*
+- **E-commerce B2B** : connaît les parcours B2B : compte société, devis, prix négociés, paiement à terme, recommande.
+- **SEO de migration** : plan de redirections, recette des URL avant bascule, suivi Search Console et trafic organique, plan d'action si le trafic chute.
 - **Priorisation et delivery** : tient 6 mois chargés : coupe, séquence, anticipe les dépendances PIM, OMS et ERP.
-- **Spécification exécutable** : tickets avec contexte, critères d'acceptation et commande de test, exécutables par un humain ou un agent. *Preuve : un ticket réel.*
-- **Instrumentation et analytics** : explore PostHog, surtout via MCP, pour comprendre le plan de tracking actuel des sites et prendre des décisions fondées sur les données ; fait évoluer ce plan, une métrique par livraison. *Preuve : un plan de tracking qu'il a écrit.*
+- **Spécification exécutable** : tickets avec contexte, critères d'acceptation et commande de test, exécutables par un humain ou un agent.
+- **Instrumentation et analytics** : explore PostHog, surtout via MCP, pour comprendre le plan de tracking actuel des sites et prendre des décisions fondées sur les données ; fait évoluer ce plan, une métrique par livraison.
 - **Conversion et expérimentation** : une hypothèse, une métrique principale et un garde-fou par changement ; sait quoi faire quand le trafic manque.
 - **Discovery et cadrage** : part du problème client ou commercial, pas de la solution demandée.
-- **Données en autonomie** : interroge Snowflake au quotidien et peut soumettre des PR sur notre projet dbt, par exemple des vues de réconciliation qui vérifient que tous les produits PrestaShop sont en ligne dans Medusa et que tous les contenus ont migré dans le CMS. *Preuve : cas pratique.*
+- **Données en autonomie** : interroge Snowflake au quotidien et peut soumettre des PR sur notre projet dbt, par exemple des vues de réconciliation qui vérifient que tous les produits PrestaShop sont en ligne dans Medusa et que tous les contenus ont migré dans le CMS.
 
 ### IA et agents
 
-- **Travail avec l'IA, MCP et skills** : travaille chaque jour avec un agent branché sur nos outils (MCP, skills, CLI, API) et vérifie ce qu'il produit. *Preuve : démonstration en direct.*
+- **Travail avec l'IA, MCP et skills** : travaille chaque jour avec un agent branché sur nos outils (MCP, skills, CLI, API) et vérifie ce qu'il produit.
 - **Diffusion dans l'équipe** : forme l'équipe e-commerce à ces usages pour qu'elle accélère elle aussi : serveurs MCP, skills partagés, bonnes pratiques de vérification.
-- **Fonctionnalités IA** : recherche en langage naturel et recommandations, avec une évaluation de la qualité. *Preuve : une fonctionnalité IA livrée et sa mesure.*
+- **Fonctionnalités IA** : recherche en langage naturel et recommandations, avec une évaluation de la qualité.
 
 > À noter : nous avons construit notre propre serveur MCP pour le PIM.
 
@@ -121,15 +121,15 @@ Le PM n'a pas à maîtriser chaque outil, mais il doit savoir ce que fait chacun
 
 Vous n'êtes pas développeur, et on ne vous le demande pas. Vous comprenez assez l'architecture pour écrire un contrat entre deux briques et estimer ce que coûte une demande. Si vous codez un peu, vous pouvez soumettre des PR : c'est un plus, pas une attente.
 
-- **Plateforme composable : PIM, OMS, CMS, comptes** : sait quelle brique fait foi pour chaque donnée ; spécifie un parcours qui traverse plusieurs briques avec ses cas d'échec ; écrit les notes construire ou acheter. *Preuve : une architecture qu'il a cadrée.*
-- **Replatforming et Medusa** : a mené une migration de plateforme ; comprend les modules, workflows et fournisseurs de livraison de Medusa, le rendu serveur et le cache de Next.js. *Preuve : chiffres avant/après d'une migration.*
-- **Intégrations par API** : spécifie l'appel à l'API transport de l'OMS (panier et adresse en entrée, transporteurs et prix en sortie) et la lecture des API de l'ERP : temps de réponse, repli, webhooks. Sait tester lui-même une API dans Postman et/ou avec Claude. *Preuve : une spécification d'intégration.*
-- **E-procurement, PunchOut et SSO** : connaît cXML et OCI, les bons de commande électroniques, SAML et OpenID Connect. *Preuve : un raccordement spécifié.*
+- **Plateforme composable : PIM, OMS, CMS, comptes** : sait quelle brique fait foi pour chaque donnée ; spécifie un parcours qui traverse plusieurs briques avec ses cas d'échec ; écrit les notes construire ou acheter.
+- **Replatforming et Medusa** : a mené une migration de plateforme ; comprend les modules, workflows et fournisseurs de livraison de Medusa, le rendu serveur et le cache de Next.js.
+- **Intégrations par API** : spécifie l'appel à l'API transport de l'OMS (panier et adresse en entrée, transporteurs et prix en sortie) et la lecture des API de l'ERP : temps de réponse, repli, webhooks. Sait tester lui-même une API dans Postman et/ou avec Claude.
+- **E-procurement, PunchOut et SSO** : connaît cXML et OCI, les bons de commande électroniques, SAML et OpenID Connect.
 
 ### Design
 
-- **Design system multi-marques** : porte avec le design et la tech une bibliothèque versionnée, un thème par marque issu des tokens, Storybook et des contrôles d'accessibilité ; suit l'adoption. *Preuve : un design system dont il a suivi l'adoption.*
-- **Prototypage par l'IA** : utilise MCP pour designer dans Figma ou Paper, génère des variations de composants à partir du design system, et s'en sert pour vendre vite une idée aux parties prenantes ; teste avant de figer. *Preuve : un prototype récent et comment il a fait décider.*
+- **Design system multi-marques** : porte avec le design et la tech une bibliothèque versionnée, un thème par marque issu des tokens, Storybook et des contrôles d'accessibilité ; suit l'adoption.
+- **Prototypage par l'IA** : utilise MCP pour designer dans Figma ou Paper, génère des variations de composants à partir du design system, et s'en sert pour vendre vite une idée aux parties prenantes ; teste avant de figer.
 - **Accessibilité et performance** : WCAG 2.2 AA, European Accessibility Act, Core Web Vitals.
 
 ---
