@@ -136,7 +136,7 @@ Vous n'êtes pas développeur, et on ne vous le demande pas. Vous comprenez asse
 
 ## 5. Soft skills
 
-- **Parties prenantes** : fait décider la direction générale, le webmarketing, les équipes commerciales, la logistique et les équipes PIM et OMS avec des faits, et sait dire non.
+- **Parties prenantes** : fait décider la direction générale, le webmarketing, les équipes commerciales et la logistique avec des faits, et sait dire non.
 - **Communication écrite et décision** : une note d'une page qui fait décider plutôt qu'une réunion ; une mise à jour hebdomadaire ; présente ses analyses et recommandations dans un artefact Claude.
 - **Priorisation et arbitrages** : tranche quand les besoins des marques ou des clients s'opposent, et explique clairement ce qui passe après et pourquoi.
 - **Esprit critique face à l'IA** : garde un jugement humain sur les prix, les contenus légaux, les données clients.
