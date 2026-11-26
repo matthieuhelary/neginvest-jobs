@@ -1,4 +1,4 @@
-# Brief Senior Product Manager freelance
+# Senior Product Manager freelance
 
 *Neginvest · 25 novembre 2026 · Contact : Matthieu Hélary, Directeur Product, Tech, Data & IA*
 
