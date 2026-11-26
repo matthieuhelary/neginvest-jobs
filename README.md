@@ -4,4 +4,4 @@ Neginvest job offers, to share on LinkedIn. One Markdown file per offer in [`off
 
 | Offer | Type | Date |
 |---|---|---|
-| [Senior Product Manager](offers/senior-product-manager-freelance-medusa.md) | Freelance | 2026-11-25 |
+| [Senior Product Manager](offers/senior-product-manager-freelance.md) | Freelance | 2026-11-25 |
