@@ -124,7 +124,7 @@ Vous n'êtes pas développeur, et on ne vous le demande pas. Vous comprenez asse
 - **Plateforme composable : PIM, OMS, CMS, comptes** : sait quelle brique fait foi pour chaque donnée ; spécifie un parcours qui traverse plusieurs briques avec ses cas d'échec ; écrit les notes construire ou acheter.
 - **Replatforming et Medusa** : a mené une migration de plateforme ; comprend les modules, workflows et fournisseurs de livraison de Medusa.
 - **Intégrations par API** : spécifie l'appel à l'API transport de l'OMS (panier et adresse en entrée, transporteurs et prix en sortie) et la lecture des API de l'ERP : temps de réponse, repli, webhooks. Sait tester lui-même une API dans Postman et/ou avec Claude.
-- **E-procurement, PunchOut et SSO** : connaît cXML et OCI, les bons de commande électroniques, SAML et OpenID Connect.
+- **E-procurement, PunchOut et SSO (bonus)** : connaître cXML et OCI, les bons de commande électroniques, SAML et OpenID Connect est un plus, pas un prérequis.
 
 ### Design
 
