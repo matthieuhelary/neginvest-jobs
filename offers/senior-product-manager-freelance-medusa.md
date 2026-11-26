@@ -63,7 +63,7 @@ En socle de tous les sites : un design system industrialisé, bibliothèque vers
 
 ### Votre rôle
 
-Vous êtes le Senior Product Manager du projet : vous décidez quoi construire, dans quel ordre, et vous vérifiez que ce qui sort répond au besoin. Vous parlez la langue de l'équipe technique et pouvez contribuer au code si vous le souhaitez, mais ce n'est pas votre mission principale.
+Vous êtes le Senior Product Manager du projet : vous décidez quoi construire, dans quel ordre, et vous vérifiez que ce qui sort répond au besoin. Vous parlez la langue de l'équipe technique et pouvez contribuer au code si vous le souhaitez, mais ce n'est pas votre mission principale. Vous construisez la plateforme avec une équipe de 4 personnes.
 
 - Terminer avec les équipes PIM et OMS ces deux briques et leurs contrats d'API : ce que Medusa reçoit, sous quel délai, et ce que voit le client quand une brique ne répond pas.
 - Choisir avec les développeurs le CMS headless (note construire ou acheter) et le brancher.
@@ -77,13 +77,6 @@ Vous êtes le Senior Product Manager du projet : vous décidez quoi construire, 
 - Tenir le journal des décisions produit et arbitrer entre marques quand leurs besoins divergent.
 
 Hors périmètre : la migration de janvier, le développement et la migration des données produit.
-
-### Organisation
-
-- **Interlocuteur principal** : Matthieu Hélary (directeur Product, Tech, Data & IA).
-- **Équipe** : vous construisez la plateforme avec une équipe de 4 personnes.
-- **Outils** : Linear (backlog), GitHub (code), Paper (maquettes), Slack (échanges).
-- **Rituels** : point hebdomadaire avec Matthieu Hélary, démo à chaque livraison.
 
 ---
 
