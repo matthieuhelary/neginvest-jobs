@@ -6,7 +6,7 @@
 >
 > - **Mission** : Senior Product Manager freelance, contrat de 6 mois jusqu'à fin juin 2027.
 > - **Objectif** : une plateforme e-commerce Medusa prête à porter nos 20+ sites B2B, où migrer un site revient à un thème et un plan de redirections.
-> - **Vous** : PM e-commerce B2B, à l'aise avec le SEO de migration, autonome sur les données (Snowflake, dbt) et qui travaille chaque jour avec des agents IA (MCP, skills).
+> - **Vous** : PM ayant déjà mené des refontes e-commerce, à l'aise en engineering, design, product et stakeholder management.
 > - **Lieu** : remote friendly, idéalement basé à Lille, présence régulière à Wasquehal.
 
 ---
